@@ -2,5 +2,6 @@ halooooooo
 #define anu 19
 
 void setup () {
-
+pinMode(anu, ANU);
+int a = 0;
 }
